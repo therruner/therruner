@@ -33,5 +33,4 @@
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=therruner&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 <hr>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marcos-augusto-rodrigues)](www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+Linkedin : https://www.linkedin.com/in/marcos-augusto-rodrigues-74263b197/

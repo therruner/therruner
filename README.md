@@ -34,4 +34,4 @@
 
 <hr>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marcos-augusto-rodrigues)](www.linkedin.com/in/marcos-augusto-rodrigues)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marcos-augusto-rodrigues)](www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
